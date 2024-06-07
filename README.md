@@ -36,3 +36,4 @@ The database generally updates daily. To make sure we are on a consistent load, 
 6. ydata_profiling_report.html (auto generated EDA profiling report)
 7. Team10_Standup_20230928.ipynb (standup notebook)
 8. preprocessing and supervised_20231001.ipynb (supervised learning tasks)
+9. F23_Milestone II_Team 10_Project Report_20231023.pdf (final project report)
